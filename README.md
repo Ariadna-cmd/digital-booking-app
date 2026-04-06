@@ -75,4 +75,3 @@ Este proyecto fue originalmente desarrollado en un repositorio privado de GitLab
 Presentaciones: 
 https://drive.google.com/drive/folders/1HAX7gC0SJ21M3qaAUKy7XbUMGzPrugFK?usp=drive_link
 
-[Presentación final.pdf](https://github.com/user-attachments/files/26493822/Presentacion.final.pdf)
