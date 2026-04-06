@@ -62,17 +62,29 @@ Se realizaron:
 .Documentación de casos de prueba y defectos por sprint
 
 Qué aprendí con este proyecto:
+
 .Trabajo en equipo en un entorno ágil real
+
 .Desarrollo de aplicaciones full-stack
+
 .Integración frontend-backend mediante APIs REST
+
 .Flujo profesional de versionado con Git
+
 .Importancia del testing en el ciclo de desarrollo
 
+
 Notas
+
 Este proyecto fue originalmente desarrollado en un repositorio privado de GitLab durante la cursada. Este repositorio se publica con fines de portfolio profesional.
 
+
 Presentaciones: 
+
 [Guía de infraestructura.pdf](https://github.com/user-attachments/files/26493815/Guia.de.infraestructura.pdf)
+
 [Testing Exploratorio.pdf](https://github.com/user-attachments/files/26493820/Testing.Exploratorio.pdf)
+
 [Reporte Final de Testing.pdf](https://github.com/user-attachments/files/26493821/Reporte.Final.de.Testing.pdf)
+
 [Presentación final.pdf](https://github.com/user-attachments/files/26493822/Presentacion.final.pdf)
