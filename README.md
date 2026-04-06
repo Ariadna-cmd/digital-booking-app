@@ -62,20 +62,13 @@ Se realizaron:
 .Documentación de casos de prueba y defectos por sprint
 
 Qué aprendí con este proyecto:
-
 .Trabajo en equipo en un entorno ágil real
-
 .Desarrollo de aplicaciones full-stack
-
 .Integración frontend-backend mediante APIs REST
-
 .Flujo profesional de versionado con Git
-
 .Importancia del testing en el ciclo de desarrollo
 
-
 Notas
-
 Este proyecto fue originalmente desarrollado en un repositorio privado de GitLab durante la cursada. Este repositorio se publica con fines de portfolio profesional.
 
 
