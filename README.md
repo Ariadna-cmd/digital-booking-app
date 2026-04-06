@@ -73,11 +73,6 @@ Este proyecto fue originalmente desarrollado en un repositorio privado de GitLab
 
 
 Presentaciones: 
-
-[Guía de infraestructura.pdf](https://github.com/user-attachments/files/26493815/Guia.de.infraestructura.pdf)
-
-[Testing Exploratorio.pdf](https://github.com/user-attachments/files/26493820/Testing.Exploratorio.pdf)
-
-[Reporte Final de Testing.pdf](https://github.com/user-attachments/files/26493821/Reporte.Final.de.Testing.pdf)
+https://drive.google.com/drive/folders/1HAX7gC0SJ21M3qaAUKy7XbUMGzPrugFK?usp=drive_link
 
 [Presentación final.pdf](https://github.com/user-attachments/files/26493822/Presentacion.final.pdf)
